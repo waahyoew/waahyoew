@@ -23,4 +23,20 @@ Driven AI Engineer & Data Scientist passionate about architecting, training, and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<p data-importer="text" align="left">Play Game with me!</p>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/waahyoew/waahyoew/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waahyoew/waahyoew/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waahyoew/waahyoew/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/waahyoew/waahyoew/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
