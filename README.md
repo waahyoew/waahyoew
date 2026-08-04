@@ -1,5 +1,5 @@
 ## Hi! Nice to see you. 👋
-![](img/github-header-banner.png)
+![](img/github-header.png)
 Welcome to my page! I'm Wahyu Widihansyah, an AI Engineer & Data Scientist based in Sidoarjo, Indonesia.
 Bridging the gap between complex data, advanced machine learning models, and production-ready AI solutions.
 
