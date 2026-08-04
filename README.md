@@ -23,9 +23,7 @@ Driven AI Engineer & Data Scientist passionate about architecting, training, and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-
-<p data-importer="text" align="left">Play Game with me!</p>
+## 🎮 Play Games with me!
 
 ###
 
